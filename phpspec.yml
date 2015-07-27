@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: CrmResult
+        psr4_prefix: CrmResult
+        src_path: app
